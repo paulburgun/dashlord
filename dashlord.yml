@@ -140,6 +140,8 @@ urls:
     category: startup
   - url: https://secretariat.incubateur.net
     category: betagouv
+  - url: https://le.taxi/
+    category: startup
   - url: https://trackdechets.beta.gouv.fr
     category: startup
   - url: https://transport.data.gouv.fr
